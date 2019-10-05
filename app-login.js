@@ -1,1 +1,1 @@
-console.log('Mal spreminjam to je to ');
+console.log('Mal spreminjam to je to  Še mal spreminjam');
