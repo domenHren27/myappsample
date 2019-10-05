@@ -1,1 +1,1 @@
-console.log('Neki kar je');
+console.log('Neki kar je mal spremembe');
